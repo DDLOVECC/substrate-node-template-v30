@@ -1,1 +1,9 @@
-
+##创建凭证
+    ![image](https://github.com/DDLOVECC/substrate-node-template-v30/blob/master/pallets/poe/1-1.jpg)
+    ![image](https://github.com/DDLOVECC/substrate-node-template-v30/blob/master/pallets/poe/1-2.jpg)
+##销毁凭证
+     ![image](https://github.com/DDLOVECC/substrate-node-template-v30/blob/master/pallets/poe/2-1.jpg)
+     ![image](https://github.com/DDLOVECC/substrate-node-template-v30/blob/master/pallets/poe/2-2.jpg)
+##转移凭证     
+     ![image](https://github.com/DDLOVECC/substrate-node-template-v30/blob/master/pallets/poe/3-1.jpg)
+     ![image](https://github.com/DDLOVECC/substrate-node-template-v30/blob/master/pallets/poe/3-2.jpg)
